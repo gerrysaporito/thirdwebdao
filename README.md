@@ -1,2 +1,1 @@
-# thirdwebdao
-# thirdwebdao
+# Web 3 DAO
