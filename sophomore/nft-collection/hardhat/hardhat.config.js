@@ -10,7 +10,7 @@ module.exports = {
   networks: {
     goerli: {
       url: ALCHEMY_API_KEY_URL,
-      accounts: [GOERLI_PRIVATE_KEY],
+      accounts: [`0x${GOERLI_PRIVATE_KEY}`],
     },
   },
 };
